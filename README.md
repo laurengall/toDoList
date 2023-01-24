@@ -1,2 +1,2 @@
 # toDoList
-To-do list using ArrayLists, iteration, and Scanners. 
+Simple to-do list using ArrayLists, iteration, and Scanners. 
